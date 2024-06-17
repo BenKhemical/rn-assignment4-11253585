@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, Image, TextInput, ScrollView, TouchableOpacity } from 'react-native';
-import FeaturedJobCard from '../components/FeaturedJobs';
-import PopularJobCard from '../components/PopularJobs';
+import FeaturedJobCard from '../components/FeaturedJobsCard';
+import PopularJobCard from '../components/PopularJobsCard';
 
 import searchIcon from '../assets/icon.png';
 import filterIcon from '../assets/filter.png'; 
