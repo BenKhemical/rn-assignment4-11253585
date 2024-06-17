@@ -56,9 +56,9 @@ The navigation between screens is handled by React Navigation. The `AppNavigator
 ## Screenshots
 Screenshots of the app can be found in the `screenshots` directory. Here are the paths for each screenshot:
 
-![Screenshot of the Login screen](./JobizzApp/screenshots/Loginscreen.jpg)
-![Screenshot of the Home screen](./JobizzApp/screenshots/HomeScreen.jpg)
-![Screenshot of the popular cards](./JobizzApp/screenshots/PopularJobs.jpg)
-![Screenshot of the Featured cards](./JobizzApp/screenshots/FeaturedJobs.jpg)
+![Screenshot of the Login screen](./screenshots/Loginscreen.jpg)
+![Screenshot of the Home screen](./screenshots/HomeScreen.jpg)
+![Screenshot of the popular cards](./screenshots/PopularJobs.jpg)
+![Screenshot of the Featured cards](./screenshots/FeaturedJobs.jpg)
 
 
